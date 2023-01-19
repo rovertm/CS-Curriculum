@@ -13,10 +13,6 @@ I'm a full-time professional and complete coursework during free time.
 
 # Curriculum
 
-<details><summary>Course Table</summary>
-
----
-
 ### UPDATED: 2023-01-19 
 
 | Course Code     | University Code     | Institution               | Course                                    								                                                | Discipline         | Subject                    | Start Date   | Completion Date   | Repo						
@@ -26,7 +22,6 @@ I'm a full-time professional and complete coursework during free time.
 | `001`           | `6.0001`            | MIT                       | [Intro to Computer Science and Programming](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 	         | Computer Science   | Intro-CS                   | `2023-01-13` | `ACTIVE`          |		-
 | `002`           | `6.0002`            | MIT                       | [Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)       | Computer Science   | Intro-CS                   | -            | -                 |		-
 
-</details>
 														
 
 
