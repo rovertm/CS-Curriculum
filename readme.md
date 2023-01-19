@@ -1,3 +1,16 @@
+
+# Overview
+
+This repository is home to the core assets associated with my self-study curriculum. I'm currently studying `computer science & engineering` with an emphasis on comprehensive education -- vs coding bootcamp learning paths. I prioritize open & archived university coursework although I plug gaps with various other e-learning programs where necessary.
+
+I'm a full-time professional and complete coursework during free time. 
+
+> "Translated French medical records explained that a man without identification had been taken to a Paris mental health unit and diagnosed as schizophrenic. He became catatonic and was sent to a government institution on the outskirts of Toulon. He became a subject in an experimental program that sought to reverse schizophrenia through the application of cybernetic models. A random selection of patients were provided with microcomputers and encouraged, with help from students, to program them. He was cured, the only success in the entire experiment. The record ended there." 
+> 
+> **_Neuromancer_, William Gibson, 1984**
+
+
+
 # Curriculum
 
 <details><summary>Course Table</summary>
