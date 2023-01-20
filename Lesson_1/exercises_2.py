@@ -12,8 +12,6 @@ Break statments
 
 """
 
-##### TRICKY #####
-
 # break can only be used with for or while loop (not if/else)
 
 # mysum = 0
