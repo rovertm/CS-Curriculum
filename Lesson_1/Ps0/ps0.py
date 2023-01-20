@@ -33,6 +33,7 @@ print("x**y = ", xpowy)
 # 4. Prints out the log (base 2) of “x”.
 lgx = np.log2(x)
 print("log2(x) = ", lgx)
+
 """
 
 >> follow ups and curiosities...
