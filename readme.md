@@ -1,21 +1,20 @@
 
 # Overview
 
-This repository is home to the core assets associated with my self-study curriculum. I'm currently studying `computer science & engineering`(`CSE`) with an emphasis on `data structures`, `algorithms`, `mathematics`, `programming`, `data science`, and `software engineering` -- vs role-specific coding bootcamps. 
+This repository is home to the core assets associated with my self-study curriculum. I'm currently studying `computer science & engineering`(`CSE`), study topics include `data structures`, `algorithms`, `software engineering` and `data science`.
 
-I prioritize open & archived university coursework although I plug gaps with various other e-learning programs where necessary.
+I prioritize open & archived university coursework although I plug gaps with various other e-learning programs where necessary. 
 
 I'm a full-time professional and complete coursework during free time. 
 
 # Manifesto
 
 ### Tenets
-* Computational problem solving and modeling have profound carryover into non-`CSE` domains
-* `CSE` is _currently_ our best preparatory framework for solving rigorous problems in technology, business, economics
-* `CSE` _currently_ offers the best analogies to model, build, and analyze complex systems
-* Foundational knowledge in `CSE` will be required to build, improve, and advise the next generation of deep technology products and services
-* Self-study promotes greater cognitive strain and higher levels of comprehension vs hand-fed "TurboTax" courses
-* Self-study develops valuable curriculum-agnostic skills: resourcefulness, organization, autonomy     
+* `CSE` and computational thinking offer the most effective framework to model, build, and analyze complex systems
+* Computational problem solving has profound carryover into non-`CSE` domains
+* Foundational knowledge in `CSE` will be required to build and improve the next generation of deep technology products and services
+* Self-study promotes greater cognitive strain and higher levels of comprehension vs click-through "TurboTax" online courses
+* Self-study develops critical curriculum-agnostic skills: resourcefulness, organization, autonomy     
 
 
 ### Objectives
@@ -28,7 +27,7 @@ I'm a full-time professional and complete coursework during free time.
 
 I'm studying `CSE` to increase my problem-solving toolkit and intellectual capacity. 
 
-The legacy paradigms of digital networks, financial systems, and computing hardware have driven software development -- I believe we'll witness the reverse in next generation technology.
+Historically, legacy paradigms for digital networks, financial systems, and computing hardware have driven software development -- I believe the next generation of breakthrough technology will be software-first.
 
 Transformative technology is hard to build. Simply "speaking the language" won't be enough. As a business professional, I plan to make meaningful contributions to deep tech industry. Applying computational modes of thinking and holding myself to a higher standard of technical rigor will be where I start.
 
