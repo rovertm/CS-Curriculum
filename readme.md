@@ -54,16 +54,12 @@ I've curated courses from two primary sources: 1) MIT 2) Open Source Society Uni
 
 # Curriculum
 
-### UPDATED: 2023-01-19 
+### UPDATED: 2023-02-03 
 
 | Course Code     | University Code     | Institution               | Course                                    								                                                | Discipline         | Subject                    | Start Date   | Completion Date   | Repo						
 | :-----------:   | :---------------:   | :-----------------------: | :------------------------------------------------------------------------------                                                                                 | :----------------: | :------------------------- | :----------: | :----------:      | :----------------:  				
-
-
-
 | `000`           |  NA                 | UMich                     | [Python for Everybody](https://www.py4e.com/lessons)                      					                                      | `Computer Science`   | Intro-CS                   | `2022-12-17` | `2023-01-13`      | [Folder]( https://github.com/rovertm/Open-Source-Curriculum/tree/main/000-Python-for-Everybody )
 | `001`           | `6.0001`            | MIT                       | [Intro to Computer Science and Programming](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 	         | `Computer Science`   | Intro-CS                   | `2023-01-13` | `ACTIVE`          |  [Folder]( https://github.com/rovertm/Open-Source-Curriculum/tree/main/001-Intro-to-CS-and-Programming )
 | `002`           |  NA                 | UMich                     | [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming?#courses)                      			         | `Computer Science`   | Intro-CS                   | -            | -                 |		-
 | `003`           | `6.0002`            | MIT                       | [Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)       | `Computer Science`   | Intro-CS                   | -            | -                 |		-
-| `004`           |  NA                 | UMich                     | [Applied Data Science](https://www.coursera.org/specializations/data-science-python)                      				                   | `Data Science`       | Intro-CS                   | -            | -                 |		-
-
+| `004`           |  NA                 | UMich                     | [Applied Data Science](https://www.coursera.org/specializations/data-science-python)                      				                   | `Data Science`       | Intro-DS                   | -            | -                 |		-
