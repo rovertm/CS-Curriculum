@@ -3,7 +3,7 @@
 
 This repository is home to the core assets associated with my self-study curriculum. I'm currently studying `computer science & engineering`(`CSE`). Study topics include `data structures`, `algorithms`, `software engineering` and `data science`.
 
-I prioritize open & archived university coursework although I plug gaps with various e-learning programs where necessary or where I sought additional practice on a topic. 
+I prioritize open archived university coursework although I plug gaps and/or seek additional practice with various e-learning programs. 
 
 I'm a full-time professional and complete coursework during free time. 
 
@@ -58,11 +58,12 @@ I've curated courses from two primary sources: 1) MIT 2) Open Source Society Uni
 
 | Course Code     | University Code     | Institution               | Course                                    								                                                | Discipline         | Subject                    | Start Date   | Completion Date   | Repo						
 | :-----------:   | :---------------:   | :-----------------------: | :------------------------------------------------------------------------------                                                                                 | :----------------: | :------------------------- | :----------: | :----------:      | :----------------:  				
-| `000.1`         |  NA                 | Deep Teaching Solutions   | [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)                     		                                	         | Psychology         | Learning and Productivity  | `2022-12-17` | `2022-12-20`      |		-
-| `000.2`         |  NA                 | UMich                     | [Python for Everybody](https://www.py4e.com/lessons)                      					                                      | Computer Science   | Intro-CS                   | `2022-12-17` | `2023-01-13`      |		-
-| `001`           | `6.0001`            | MIT                       | [Intro to Computer Science and Programming](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 	         | Computer Science   | Intro-CS                   | `2023-01-13` | `ACTIVE`          |		-
-| `002`           | `6.0002`            | MIT                       | [Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)       | Computer Science   | Intro-CS                   | -            | -                 |		-
 
-														
 
+
+| `000`           |  NA                 | UMich                     | [Python for Everybody](https://www.py4e.com/lessons)                      					                                      | `Computer Science`   | Intro-CS                   | `2022-12-17` | `2023-01-13`      | [Folder]( https://github.com/rovertm/Open-Source-Curriculum/tree/main/000-Python-for-Everybody )
+| `001`           | `6.0001`            | MIT                       | [Intro to Computer Science and Programming](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 	         | `Computer Science`   | Intro-CS                   | `2023-01-13` | `ACTIVE`          |  [Folder]( https://github.com/rovertm/Open-Source-Curriculum/tree/main/001-Intro-to-CS-and-Programming )
+| `002`           |  NA                 | UMich                     | [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming?#courses)                      			         | `Computer Science`   | Intro-CS                   | -            | -                 |		-
+| `003`           | `6.0002`            | MIT                       | [Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)       | `Computer Science`   | Intro-CS                   | -            | -                 |		-
+| `004`           |  NA                 | UMich                     | [Applied Data Science](https://www.coursera.org/specializations/data-science-python)                      				                   | `Data Science`       | Intro-CS                   | -            | -                 |		-
 
