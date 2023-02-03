@@ -3,7 +3,7 @@
 
 This repository is home to the core assets associated with my self-study curriculum. I'm currently studying `computer science & engineering`(`CSE`). Study topics include `data structures`, `algorithms`, `software engineering` and `data science`.
 
-I prioritize open & archived university coursework although I plug gaps with various other e-learning programs where necessary. 
+I prioritize open & archived university coursework although I plug gaps with various e-learning programs where necessary or where I sought additional practice on a topic. 
 
 I'm a full-time professional and complete coursework during free time. 
 
