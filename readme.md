@@ -33,6 +33,8 @@ I've utilized the following resources to help curate coursework:
 	* [CSE degree requirements](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
 	* [Scott Young's MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), tldr: Scott completed MIT's core CSE degree requirements via open courseware in ~12 months
 	* [Scott Young's TedTalk](https://www.youtube.com/watch?v=piSLobJfZ3c)
+* **University of Michigan**
+	* [UM Coursera Catalog](https://online.umich.edu/coursera-for-students/)
 * **Open Source Society University**
 	* [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 	* OSSU is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements
