@@ -1,0 +1,63 @@
+LEARN OOP IN PYTHON - EDUCATIVE
+
+https://www.educative.io/courses/learn-object-oriented-programming-in-python
+
+
+CORE CONCEPTS
+
+  Inheritance
+  Method overriding
+  Polymorphism
+  Aggregation
+  Composition
+
+KEY HIGHLIGHTS
+
+>> Classes
+
+  classes are user-defined data types implemented using primitive data types, 
+  e.g., boolean, int, char, etc. 
+  
+  While primitive data types only focus on modeling the state of the object, 
+  user-defined data types can encapsulate the state and its behaviors into a unit.
+  
+  tl;dr: defined data-types that model both state and behavior 
+
+>> Method Overloading
+
+  One might wonder that we could simply create new methods to perform different jobs rather than overloading the same method. 
+  
+  However, under the hood, **overloading saves us memory** in the system. Creating new methods is costlier compared to overloading a single one.
+  
+  Overloading refers to making a method perform different operations based on the nature of its arguments.
+
+>> Encapsulation
+
+  Binding data, and relevant methods to a single `class` unit
+
+>> Duck-typing vs Inheritance
+
+  Using duck typing, we can implement polymorphism without using inheritance.
+
+>> ABC - Abstract Base Class
+
+  Abstract base classes define a set of methods and properties
+  that a class must implement in order to be considered a duck-type instance of that
+  class.
+  
+  To define an abstract base class, we use the abc module. The abstract base class is inherited from the built-in ABC class. We have to use the decorator @abstractmethod above the method that we want to declare as an abstract method.
+
+>> Aggregation 
+
+  In aggregation, the lifetime of the owned object does not depend on the lifetime of the owner.
+  
+  Concept of Aggregation
+  Aggregation is a concept in which an object of one class can own or access another independent object of another class. 
+  
+  It represents Has-A’s relationship.
+  It is a unidirectional association i.e. a one-way relationship. For example, a department can have students but vice versa is not possible and thus unidirectional in nature.
+  In Aggregation, both the entries can survive individually which means ending one entity will not affect the other entity.
+  
+  https://www.geeksforgeeks.org/python-oops-aggregation-and-composition/
+
+
