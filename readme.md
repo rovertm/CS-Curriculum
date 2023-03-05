@@ -1,7 +1,9 @@
 
 # Overview
 
-This repository is home to the core assets associated with my self-study curriculum. I'm currently studying `computer science & engineering`(`CSE`). Study topics include `data structures`, `algorithms`, `software engineering` and `data science`.
+This repository is home to the core assets associated with my self-study curriculum. 
+
+I'm currently studying `computer science & engineering`(`CSE`). Study topics include `data structures`, `algorithms`, `software engineering` and `data science`.
 
 I utilize both open archived university coursework and various e-learning programs. 
 
@@ -52,11 +54,12 @@ I've utilized the following resources to help curate coursework:
 
 # Curriculum
 
-### UPDATED: 2023-02 
 
-| Course Code     | University Code     | Institution               | Course                                    								                                                | Discipline         | Subject                    | Start Date   | Completion Date   | Repo						
-| :-----------:   | :---------------:   | :-----------------------: | :------------------------------------------------------------------------------                                                                                 | :----------------: | :------------------------- | :----------: | :----------:      | :----------------:  				
-| `000`           |  NA                 | UMich                     | [Python for Everybody](https://www.py4e.com/lessons)                      					                                      | `Computer Science`   | Intro-CS                   | `2022-12` | `2023-01`      | [Folder]( https://github.com/rovertm/Open-Source-Curriculum/tree/main/000-Python-for-Everybody )
-| `001`           | `6.0001`            | MIT                       | [Intro to Computer Science and Programming](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 	         | `Computer Science`   | Intro-CS                   | `2023-01` | `2023-02`          |  [Folder]( https://github.com/rovertm/Open-Source-Curriculum/tree/main/001-Intro-to-CS-and-Programming )
-| `002`           |  NA                 | UMich                     | [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming?#courses)                      			         | `Computer Science`   | Intro-CS                   | `2023-02` | `2023-02`          |  [Folder]( https://github.com/rovertm/Open-Source-Curriculum/tree/main/002-Python-3-Specialization )
-| `003`           | `6.0002`            | MIT                       | [Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)       	         | `Computer Science`   | Intro-CS                   | `2023-02` | -                 |	 [Folder](https://github.com/rovertm/Open-Source-Curriculum/tree/main/003-Computational-Thinking-and-Data-Science )
+
+| Course Code     | University Code     | Institution               | Course                                    								                                      | Discipline         | Subject                    |  Repo						
+| :-----------:   | :---------------:   | :-----------------------: | :------------------------------------------------------------------------------                                                                                 | :----------------: | :------------------------- |  :----------------:  				
+| `000`           |  NA                 | UMich                     | [Python for Everybody](https://www.py4e.com/lessons)                      					                                      | `Computer Science`   | Intro-CS                 |  [Folder]( https://github.com/rovertm/Open-Source-Curriculum/tree/main/000-Python-for-Everybody )
+| `001`           | `6.0001`            | MIT                       | [Intro to Computer Science and Programming](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 	         | `Computer Science`   | Intro-CS              |  [Folder]( https://github.com/rovertm/Open-Source-Curriculum/tree/main/001-Intro-to-CS-and-Programming )
+| `002`           |  NA                 | UMich                     | [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming?#courses)                      			         | `Computer Science`   | Intro-CS              |  [Folder]( https://github.com/rovertm/Open-Source-Curriculum/tree/main/002-Python-3-Specialization )
+| `002.01`        |  NA                 | Educative                 | [Learn Object Oriented Programming in Python](https://www.educative.io/courses/learn-object-oriented-programming-in-python)       	            	         | `Computer Science`   | Intro-CS              |  [Folder]( https://github.com/rovertm/CS-Curriculum/tree/main/002.01-Learn-OOP-Python )
+| `003`           | `6.0002`            | MIT                       | [Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)       	         | `Computer Science`   | Intro-CS              |  [Folder](https://github.com/rovertm/Open-Source-Curriculum/tree/main/003-Computational-Thinking-and-Data-Science )
