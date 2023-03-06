@@ -9,26 +9,6 @@ I utilize both open archived university coursework and various e-learning progra
 
 I'm a full-time professional and complete coursework during free time. 
 
-# Manifesto
-
-### Tenets
-* `CSE` offers the most effective framework to model, build, and analyze complex systems
-* Computational problem solving has profound carryover into non-`CSE` domains
-* Foundational knowledge in `CSE` will be required to build and improve the next generation of deep technology products and services    
-
-### Objectives
-
-* Complete core curriculum comparable to that of an undergraduate `CSE` [degree from MIT](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
-* Showcase a portfolio of useful programming projects  
-
-### Motivations
-
-I'm studying `CSE` to increase my problem-solving toolkit and intellectual capacity. 
-
-Historically, legacy paradigms for digital networks, financial systems, and computing hardware have driven software development -- the next generation of breakthrough technology will be software-driven.
-
-Transformative technology is hard to build. Simply "speaking the language" won't be enough. As a business professional, I plan to make meaningful contributions to deep tech industry; applying computational modes of thinking and holding myself to a higher standard of technical rigor.
-
 I've utilized the following resources to help curate coursework:
 
 * **MIT**
