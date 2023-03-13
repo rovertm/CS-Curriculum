@@ -1,20 +1,16 @@
 
 # Overview
 
-This repository is home to the core assets associated with my self-study curriculum. 
-
 I'm currently studying `computer science & engineering`(`CSE`). Study topics include `data structures`, `algorithms`, `software engineering` and `data science`.
 
-I utilize both open archived university coursework and various e-learning programs. 
+The purpose of this repo is to provide visibility and chronology to my coursework.
 
-I'm a full-time professional and complete coursework during free time. 
+I utilize both open archived university coursework and various e-learning programs. 
 
 I've utilized the following resources to help curate coursework:
 
 * **MIT**
 	* [CSE degree requirements](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
-	* [Scott Young's MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), tldr: Scott completed MIT's core CSE degree requirements via open courseware in ~12 months
-	* [Scott Young's TedTalk](https://www.youtube.com/watch?v=piSLobJfZ3c)
 * **University of Michigan**
 	* [UM Coursera Catalog](https://online.umich.edu/coursera-for-students/)
 * **Open Source Society University**
