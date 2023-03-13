@@ -7,7 +7,7 @@ The purpose of this repo is to provide visibility to my coursework.
 
 I utilize both open archived university coursework and various e-learning programs. 
 
-I've utilized the following resources to help curate coursework:
+Resources that have helped to curate coursework:
 
 * **MIT**
 	* [CSE degree requirements](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
