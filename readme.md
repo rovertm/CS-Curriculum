@@ -3,7 +3,7 @@
 
 I'm currently studying `computer science & engineering`(`CSE`). Study topics include `data structures`, `algorithms`, `software engineering` and `data science`.
 
-The purpose of this repo is to provide visibility and chronology to my coursework.
+The purpose of this repo is to provide visibility to my coursework.
 
 I utilize both open archived university coursework and various e-learning programs. 
 
