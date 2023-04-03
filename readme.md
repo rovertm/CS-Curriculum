@@ -1,7 +1,7 @@
 
 # Overview
 
-I'm currently studying `computer science & engineering`(`CSE`). Study topics include `data structures`, `algorithms`, `software engineering` and `data science`.
+I'm currently studying `computer science & engineering`(`CSE`). Study topics include `software engineering`, `machine learning`, and `data science`.
 
 The purpose of this repo is to provide visibility to my coursework.
 
@@ -11,6 +11,8 @@ Resources that have helped to curate coursework:
 
 * **MIT**
 	* [CSE degree requirements](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
+* **DeepLearning.AI**
+	* [Course page](https://www.deeplearning.ai/courses/)
 * **University of Michigan**
 	* [UM Coursera Catalog](https://online.umich.edu/coursera-for-students/)
 * **Open Source Society University**
@@ -38,4 +40,6 @@ Resources that have helped to curate coursework:
 | `001`           | `6.0001`            | MIT                       | [Intro to Computer Science and Programming](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 	         | `Computer Science`   | Intro-CS              |  [Folder]( https://github.com/rovertm/Open-Source-Curriculum/tree/main/001-Intro-to-CS-and-Programming )
 | `002`           |  NA                 | UMich                     | [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming?#courses)                      			         | `Computer Science`   | Intro-CS              |  [Folder]( https://github.com/rovertm/Open-Source-Curriculum/tree/main/002-Python-3-Specialization )
 | `002.01`        |  NA                 | Educative                 | [Learn Object Oriented Programming in Python](https://www.educative.io/courses/learn-object-oriented-programming-in-python)       	            	         | `Computer Science`   | Intro-CS              |  [Folder]( https://github.com/rovertm/CS-Curriculum/tree/main/002.01-Learn-OOP-Python )
-| `003`           | `6.0002`            | MIT                       | [Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)       	         | `Computer Science`   | Intro-CS              |  [Folder](https://github.com/rovertm/Open-Source-Curriculum/tree/main/003-Computational-Thinking-and-Data-Science )
+| `003`           |  NA                 | Stanford-DeepLearning.AI                 | [Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/)       	            	         | `Machine Learning`   | Core-CS               |  [Folder]( https://github.com/rovertm/CS-Curriculum/tree/main/003-Machine-Learning-Specialization)
+| `003.01`        |  NA                 | Educative                 | [Python Data Analysis](https://www.educative.io/module/Y6GKZ1igOAW0XJlmE/10370001/4599423935184896)       	            	                               | `Computer Science`   | Intro-CS               |  [Folder]( https://github.com/rovertm/CS-Curriculum/tree/main/003.01-Python-Data-Analysis)
+
